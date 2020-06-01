@@ -1,0 +1,23 @@
+{
+	"schemaVersion": 1,
+	"id": "latencydisplay",
+	"version": "1.0.0",
+	"name": "Latency Display",
+	"description": "Displays the exact latency of each player in the player list HUD.",
+	"authors": [
+		"haykam821"
+	],
+	"contact": {
+		"homepage": "https://github.com/haykam821/Latency-Display#readme",
+		"issues": "https://github.com/haykam821/Latency-Display/issues"
+	},
+	"environment": "client",
+	"mixins": [
+		"latencydisplay.mixin.json"
+	],
+	"license": "MIT",
+	"icon": "assets/latencydisplay/icon.png",
+	"depends": {
+		"fabricloader": ">=0.4.0"
+	}
+}
