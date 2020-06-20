@@ -1,7 +1,7 @@
 {
 	"schemaVersion": 1,
 	"id": "latencydisplay",
-	"version": "1.0.0",
+	"version": "${version}",
 	"name": "Latency Display",
 	"description": "Displays the exact latency of each player in the player list HUD.",
 	"authors": [
